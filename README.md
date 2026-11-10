@@ -42,6 +42,9 @@ Ogni file `.md` è il writeup di una singola macchina HTB:
 
 | Macchina  | Difficoltà | Categorie                         | Link                           |
 | --------- | ---------- | --------------------------------- | ------------------------------ |
+| Connected | Easy       | Web, FreePBX, SQLi, incron, PrivEsc | [Connected.md](./Connected.md) |
+| Enigma    | Easy       | NFS, Web, Cmd Injection, OliveTin | [Enigma.md](./Enigma.md)       |
+| Cohort    | Easy       | Web, SSRF, WebSocket, PackageKit  | [Cohort.md](./Cohort.md)       |
 | Code Two  | Easy       | Web, JS2Py Escape, RCE, PrivEsc   | [CodeTwo.md](./CodeTwo.md)     |
 | Code      | Easy       | Web, PrivEsc                      | [Code.md](./Code.md)           |
 | Titanic   | Easy       | Web, LFI, RCE                     | [Titanic.md](./Titanic.md)     |
@@ -74,6 +77,6 @@ Materiale a scopo educativo ed ethical hacking. Usa le informazioni solo su sist
 
 ## ----[ TAG / KEYWORDS ]
 
-`#security` `#htb` `#walkthrough` `#pentest` `#hacking` `#writeup` `#privesc` `#web` `#rce` `#lfi` `#docker` `#grafana` `#js2py` `#backup`
+`#security` `#htb` `#walkthrough` `#pentest` `#hacking` `#writeup` `#privesc` `#web` `#rce` `#lfi` `#docker` `#grafana` `#js2py` `#backup` `#sqli` `#ssrf` `#nfs` `#freepbx`
 
-<sub>Last update: 25/11/2025</sub>
+<sub>Last update: 10/11/2026</sub>
